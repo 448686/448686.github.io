@@ -9,7 +9,7 @@ name: Jan Kochanowski
 description: Polák, který věděl, jak to napsat
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: <img source="http://media0.mypage.cz/images/media0:4c63defba105f.png/brk%206.png"></img>
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: O blogu
+permalink: /oblogu/
 ---
 
 Tento blog je věnován Janu Kochanowskému, největšímu básníkovi polské renesance.

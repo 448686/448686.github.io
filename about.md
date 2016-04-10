@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O blogu
+permalink: /o_blogu/
 ---
 
-Some information about you!
+Tento blog je věnován Janu Kochanowskému, největšímu básníkovi polské renesance.
 
-### More Information
+### Více informací
 
-A place to include any other types of information that you'd like to include about yourself.
+Projekt je čistě fanouškovský, může obsahovat chyby a podivné překlady. 
 
-### Contact me
+### Kontaktujte mě
 
-[email@domain.com](mailto:email@domain.com)
+Pro případ, že někde naleznete chybu, neváhejte se na mě obrátit e-mailem na:
+
+[448686@mail.muni.cz](mailto:448686@mail.muni.cz)
